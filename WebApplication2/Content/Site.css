@@ -66,27 +66,47 @@ adrian_navbar_right {
     padding: 10px;
 }
 
+#bs-example-navbar-collapse-1{
+    height:100%;
+    padding:0;
+}
+
+
+
 #bs-example-navbar-collapse-1 ul {
     border: 2px solid;
     border-color: blue;
-    padding: 10px;
+    padding: 0px;
 }
 
     #bs-example-navbar-collapse-1 ul > li {
         border: 2px solid;
         border-color: red;
         width: 100%;
-        padding: 10px;
+        padding: 0px;
+        background-color:blue;
+    }
+    #bs-example-navbar-collapse-1 ul > li:hover {
+
+        background-color: lightblue;
     }
 
-#bs-example-navbar-collapse-2 {
+    #bs-example-navbar-collapse-1 ul > li a{
+color:#ffffff;
+    }
+
+.unity_side_menu_icons.fa{
+    padding:0 !important;
+    margin:0 !important;
+    width:initial !important;
+    height:initial !important;
 }
 
 .adrian_navbar_top.container {
     width: 100% !important;
 }
 
-.adrian.container-fluid {
+.adrian {
     padding: 3px;
 }
 
