@@ -158,6 +158,7 @@
     <Content Include="Content\images\news2.png" />
     <Content Include="Content\images\news3.png" />
     <Content Include="Content\images\news4.png" />
+    <Content Include="Content\images\unity_logo.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
